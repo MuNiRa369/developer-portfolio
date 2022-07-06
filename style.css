@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.or{
+    color: rgba(244, 145, 40, 0.859);
+}
+/* devided in section */
+section{
+    display: flex;
+}
+/* set both sector width */
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+/* image width set  */
+.half-width img{
+    width: 70%;
+}
+/* hire button */
+.link-button{
+    background-image:linear-gradient( darkorange,rgb(255, 81, 0));
+    text-decoration:     none;  
+    padding: 10px 40px;       
+    color: white;
+    font-weight: 600;
+    border-radius: 6px;
+    ba
+}
+
