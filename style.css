@@ -10,7 +10,7 @@ h1{
     color: rgba(244, 145, 40, 0.859);
 }
 /* devided in section */
-section{
+.flaxible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -56,3 +56,9 @@ section{
  }
 
 /* Dream section End */
+
+/* Experience section */
+.experience{
+
+}
+/* Experience section end */
