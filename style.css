@@ -1,5 +1,7 @@
+ /* welcome section  */
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 h1{
     font-size: 50px;
@@ -10,6 +12,7 @@ h1{
 /* devided in section */
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 /* set both sector width */
 .half-width{
@@ -28,5 +31,28 @@ section{
     color: white;
     font-weight: 600;
     border-radius: 6px;
-    
 }
+/* Whole backgroung image */
+.back-img{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+ /* welcome section End */
+
+ /* Dream section */
+ #pd{
+    padding-right: 80px;
+    margin-right: 20px;
+ }
+ #ta{
+    text-align:justify;
+ }
+ .back-image{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+ }
+
+/* Dream section End */
