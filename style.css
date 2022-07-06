@@ -58,7 +58,29 @@ h1{
 /* Dream section End */
 
 /* Experience section */
-.experience{
-
+.box-shadow{
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 19px;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+}
+#bdr{
+    border-left: 9px solid red;
+    margin-right: 50px;
+}
+#bdb{
+    border-left: 9px solid blue;
+}
+.backgroung-img{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    margin-top: 1000 px;
 }
 /* Experience section end */
+
+/* Footer section */
+    footer p{
+        text-align: center;
+    }
+/* Footer section end */
